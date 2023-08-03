@@ -3,8 +3,7 @@
 The project was created using Yarn - Vite.  
 It's deployed in Vercel and can be access from:  
 
-[ReactForms-app](https://jcantini.github.io/MUI-Styling/)  React Form app
-
+[ReactForms-app](https://react-forms-nk4hzotl5-jcantini.vercel.app/home)
 
 Stack used to develope this SPA app:  
 
